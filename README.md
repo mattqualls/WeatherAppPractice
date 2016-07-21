@@ -1,2 +1,2 @@
 #Simple Angular Weather App
-**practice in progress utilizing AngularJs grabbing info from an Api.**
+**practice in progress utilizing AngularJs and a free weather API.**
